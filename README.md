@@ -25,7 +25,7 @@
     * Owner
       - Management, inventory control, budgeting, quoting and purchasing.
       - Design and develop menus.
-      - Service provided to [AGRICOM](http://agricom.cl)
+      - Service provided to [AGRICOM](http://www.agricom.cl)
 
 ### EDUCATION
   * [**Universidad de los Andes**](http://www.uandes.cl) *Santiago, Chile.  2003-2008*
@@ -33,5 +33,5 @@
 
 ### OTHERS
   * Course: "Tante Marie School of Cookery", Essential Skills, Woking UK.
-  * English teacher for adults who want to get high school degree with [CreceChile](www.crecechile.cl) Foundation/ probono.
-  * Math teacher to disadvantaged children with [Crea+](www.creamas.org) Foundation/ probono. 
+  * English teacher for adults who want to get high school degree with [CreceChile](http://www.crecechile.cl) Foundation/ probono.
+  * Math teacher to disadvantaged children with [Crea+](http://www.creamas.org) Foundation/ probono. 
