@@ -3,6 +3,11 @@
 ##WINIFRED P. IRARRAZAVAL
 7622 SE 22nd ST, Mercer Island, WA, 98040 / +1 (206) 4836597 / winirarrazaval@gmail.com
 
+  * Fast Learner.
+  * Very pacient.
+  * Good working in teams, specialy teaching.
+  * Life long learner.
+
 ###EXPERIENCE
   * **Cosmetofood Chile** *London, UK.  2011-2013*
     * Costumer affairs manager
@@ -31,7 +36,13 @@
   * [**Universidad de los Andes**](http://www.uandes.cl) *Santiago, Chile.  2003-2008*
          - *Business Administration*
 
+### VOLUNTEERING
+
+  * English teacher for adults who want to get high school degree with [CreceChile](http://www.crecechile.cl) Foundation. *Santiago, Chile. 2007 -2009*
+  * Math teacher to disadvantaged children with [Crea+](http://www.creamas.org) Foundation. *Santiago, Chile. 2004 -2006*
+
+
 ### OTHERS
   * Course: "Tante Marie School of Cookery", Essential Skills, Woking UK.
-  * English teacher for adults who want to get high school degree with [CreceChile](http://www.crecechile.cl) Foundation/ probono.
-  * Math teacher to disadvantaged children with [Crea+](http://www.creamas.org) Foundation/ probono. 
+  * Statistics professor assistant.
+ 
