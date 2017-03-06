@@ -3,14 +3,15 @@
 ##WINIFRED P. IRARRAZAVAL
 7622 SE 22nd ST, Mercer Island, WA, 98040 / +1 (206) 4836597 / winirarrazaval@gmail.com
 
-  * Fast Learner.
+  * Fast learner.
+  * Detail oriented.
   * Very pacient.
   * Good working in teams, specialy teaching.
   * Life long learner.
 
 ###EXPERIENCE
   * **Cosmetofood Chile** *London, UK.  2011-2013*
-    * Costumer affairs manager
+    * Costumer affairs manager.
       - Check product rotation, sales and prices with distributors.
       - Help the distributors with marketing of the products.
   * **Catering service to the Chilean Embassy`s residence in London, UK** *London, UK.  2011-2012*
