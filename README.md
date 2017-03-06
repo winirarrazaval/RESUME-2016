@@ -6,7 +6,7 @@
   * Fast learner.
   * Detail oriented.
   * Very pacient.
-  * Good working in teams, specialy teaching.
+  * Good working in teams, especially teaching.
   * Life long learner.
 
 ###EXPERIENCE
