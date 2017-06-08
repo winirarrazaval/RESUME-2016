@@ -35,7 +35,7 @@
 
 ### EDUCATION
   * [**Universidad de los Andes**](http://www.uandes.cl) *Santiago, Chile.  2003-2008*
-         - *Business Administration*
+         - *Business Administration with a mention in hospitality.*
 
 ### VOLUNTEERING
 
