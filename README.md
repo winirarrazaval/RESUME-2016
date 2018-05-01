@@ -1,20 +1,27 @@
-# RESUME-2017
 
 ## WINIFRED P. IRARRAZAVAL
 7622 SE 22nd ST, Mercer Island, WA, 98040 / +1 (206) 4836597 / winirarrazaval@gmail.com
 
   * Fast learner.
   * Detail oriented.
-  * Very pacient.
+  * Pacient.
   * Good working in teams, especially teaching.
   * Life long learner.
+  * Mom of two boys.
+  
+### CURRENT 
+* **Ada Developers Academy - Student - Cohort 9 ( Feb 2018 - Dic 2018)**
+  - Check my work! [GITHUB](https://github.com/winirarrazaval?tab=repositories)
+    - Ruby, HTML, CSS, Ruby on Rails, Regular Expression*
+    - Git/GitHub, Minitest, SimpleCov, Foundation, Entity Relationship Diagrams, Heroku, OAuth(OmniAuth)
+    - Object Oriented Design, Pair Programming, Test Driven Development, Agile
 
 ### EXPERIENCE
   * **Cosmetofood Chile** *London, UK.  2011-2013*
     * Costumer affairs manager.
       - Check product rotation, sales and prices with distributors.
       - Help the distributors with marketing of the products.
-  * **Catering service to the Chilean Embassy`s residence in London, UK** *London, UK.  2011-2012*
+  * **Catering service to the Chilean Embassy residence in London, UK** *London, UK.  2011-2012*
       - Coordinate events and prepare venues.
       - Design and develop menus.
   * **Banquetería Le Banquet LTDA.**   *Santiago, Chile.  2008-2010*
