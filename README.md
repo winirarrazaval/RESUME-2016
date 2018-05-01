@@ -21,9 +21,10 @@
     * Costumer affairs manager.
       - Check product rotation, sales and prices with distributors.
       - Help the distributors with marketing of the products.
-  * **Catering service to the Chilean Embassy residence in London, UK** *London, UK.  2011-2012*
-      - Coordinate events and prepare venues.
-      - Design and develop menus.
+      
+  * **Catering service to the Chilean Embassy residence in London, UK** *London, UK.  2011-2012*
+      * Coordinate events and prepare venues.
+      * Design and develop menus.
   * **Banquetería Le Banquet LTDA.**   *Santiago, Chile.  2008-2010*
     * Partner. 
       - Administration and management of the company.
